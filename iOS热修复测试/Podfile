@@ -1,0 +1,5 @@
+platform :ios, "8.0"
+
+target "iOS热修复测试" do
+pod 'JSPatchPlatform', '~> 1.6.1'
+end
